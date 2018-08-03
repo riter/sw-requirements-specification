@@ -255,11 +255,12 @@
 ## 4. External Interface Requirements
 
 ## 4.1 User Interfaces
+>Mocku Login
 
-**Mockup Log In**
 ![](/login.png)
 
-**Mockup Menu**
+>Mockup Menu
+
 ![](/menu.png)
 
 The user must create a login page when accessing any page in case he has not done it before. Administrative tasks must have a Ui interface.
