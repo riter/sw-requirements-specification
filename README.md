@@ -1,3 +1,10 @@
+## Software Requirements Specification for Balanta
+
+>Prepared by:
+>* Juan Carlos Suarez
+>* Alfredo Avila Soto 
+>* Riter Angel Mamani
+
 # **Table of Contents**
 
 1. [Introduction](#introduction)
